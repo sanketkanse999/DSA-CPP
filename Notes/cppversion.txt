@@ -1,0 +1,9 @@
+Version | Release Year | Major Features / Uses
+C++98   | 1998         | - First standardized version of C++  - Introduced: STL (Standard Template Library), vector, map, set, etc.  - Basic templates, exceptions, and namespaces
+C++03   | 2003         | - Bug fixes & small improvements to C++98  - Better template support  - Minor standard library updates
+C++11   | 2011         | 🔥 Big Update – "Modern C++" begins:  - auto keyword  - Range-based for loops  - Lambda expressions  - Smart pointers (unique_ptr, shared_ptr)  - nullptr, enum class  - move semantics and rvalue references
+C++14   | 2014         | - Performance tweaks & bug fixes  - Binary literals (0b1010)  - Generic lambdas  - std::make_unique
+C++17   | 2017         | - if constexpr  - Structured bindings (auto [a, b] = pair)  - std::optional, std::variant, std::any  - filesystem library  - Inline variables
+C++20   | 2020         | 🚀 Huge Update!  - Concepts (stronger template constraints)  - Coroutines (async programming)  - Ranges library  - constexpr improvements (even for vector)  - Modules (alternative to headers)  - calendar and chrono enhancements
+C++23   | 2023         | - std::expected (better error handling)  - std::print (like Python’s print)  - Monadic operations for optional  - Better string formatting (like Python’s f-strings)  - More constexpr power
+C++26 (Upcoming)       | ~2026 (planned) | - Focus on compiler speed, safety, and even more simplification  - Possibly expanded reflection, more constexpr, and safer concurrency
